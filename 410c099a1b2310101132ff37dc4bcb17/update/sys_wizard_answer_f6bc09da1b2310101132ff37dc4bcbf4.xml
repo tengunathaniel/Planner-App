@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Task Planner</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Task Planner</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">d4aeefb71b0310101132ff37dc4bcb62</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-01 12:10:56</sys_created_on>
+        <sys_id>f6bc09da1b2310101132ff37dc4bcbf4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Task Planner</sys_name>
+        <sys_package display_value="Planner App" source="x_364029_planner">410c099a1b2310101132ff37dc4bcb17</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Planner App">410c099a1b2310101132ff37dc4bcb17</sys_scope>
+        <sys_update_name>sys_wizard_answer_f6bc09da1b2310101132ff37dc4bcbf4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-01 12:10:56</sys_updated_on>
+        <table/>
+        <target_url>x_364029_planner_task_planner.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

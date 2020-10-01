@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="DELETE">
+        <choices/>
+        <description/>
+        <ignore_cache>false</ignore_cache>
+        <is_private>false</is_private>
+        <name>x_364029_planner.pa.vtb.board_sys_id</name>
+        <read_roles/>
+        <suffix>pa.vtb.board_sys_id</suffix>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-01 12:50:03</sys_created_on>
+        <sys_id>117511921b6310101132ff37dc4bcb91</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_364029_planner.pa.vtb.board_sys_id</sys_name>
+        <sys_package display_value="Planner App" source="x_364029_planner">410c099a1b2310101132ff37dc4bcb17</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Planner App">410c099a1b2310101132ff37dc4bcb17</sys_scope>
+        <sys_update_name>sys_properties_117511921b6310101132ff37dc4bcb91</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-01 12:50:03</sys_updated_on>
+        <type>string</type>
+        <value>2490959e1b2310101132ff37dc4bcb8d</value>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="DELETE" query="documentkey=117511921b6310101132ff37dc4bcb91"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Planner App">410c099a1b2310101132ff37dc4bcb17</application>
+        <file_path/>
+        <instance_id>f4a24f6fdb23330091232f17d49619b0</instance_id>
+        <instance_name>dev92715</instance_name>
+        <name>sys_properties_117511921b6310101132ff37dc4bcb91</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description/><ignore_cache>false</ignore_cache><is_private>false</is_private><name>x_364029_planner.pa.vtb.board_sys_id</name><read_roles/><suffix>pa.vtb.board_sys_id</suffix><sys_class_name>sys_properties</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-01 12:50:03</sys_created_on><sys_id>117511921b6310101132ff37dc4bcb91</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_364029_planner.pa.vtb.board_sys_id</sys_name><sys_package display_value="Planner App" source="x_364029_planner">410c099a1b2310101132ff37dc4bcb17</sys_package><sys_policy/><sys_scope display_value="Planner App">410c099a1b2310101132ff37dc4bcb17</sys_scope><sys_update_name>sys_properties_117511921b6310101132ff37dc4bcb91</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-01 12:50:03</sys_updated_on><type>string</type><value>2490959e1b2310101132ff37dc4bcb8d</value><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=117511921b6310101132ff37dc4bcb91"/></record_update>]]></payload>
+        <payload_hash>73974199</payload_hash>
+        <record_name>x_364029_planner.pa.vtb.board_sys_id</record_name>
+        <reverted_from/>
+        <source>0e2c01da1b2310101132ff37dc4bcbc6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-01 12:50:05</sys_created_on>
+        <sys_id>18b519521b6310101132ff37dc4bcb85</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>174e4366a630000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-01 12:50:05</sys_updated_on>
+        <type>System Property</type>
+        <update_guid>d8b51952a6631010919ea09cab383384</update_guid>
+        <update_guid_history>d8b51952a6631010919ea09cab383384:73974199</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-01 13:02:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_properties">sys_properties</sys_db_object>
+        <sys_id>6d244627f2964d909c32768757321e90</sys_id>
+        <sys_metadata>117511921b6310101132ff37dc4bcb91</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_364029_planner.pa.vtb.board_sys_id</sys_name>
+        <sys_package display_value="Planner App" source="x_364029_planner">410c099a1b2310101132ff37dc4bcb17</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Planner App">410c099a1b2310101132ff37dc4bcb17</sys_scope>
+        <sys_scope_delete display_value="">56c37e2f9da740dea63a64e9493eb444</sys_scope_delete>
+        <sys_update_name>sys_properties_117511921b6310101132ff37dc4bcb91</sys_update_name>
+        <sys_update_version display_value="sys_properties_117511921b6310101132ff37dc4bcb91">18b519521b6310101132ff37dc4bcb85</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-01 13:02:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
